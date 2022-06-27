@@ -16,9 +16,8 @@
 
     <header>
         <div class="logo">
-            <a href="/main.html"><img src="/img/logo.jpg" alt="로고 이미지" /></a>
+            <a href="main"><img src="img/logo.jpg" /></a>
         </div>
-
 
         <ul class="header_bar">
                 <li>
