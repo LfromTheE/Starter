@@ -14,7 +14,7 @@
 <body>
     <header>
         <section>
-            <a href="/main.html"> <img src="/img/logo.jpg" alt=""></a>
+            <a href="main"> <img src="/img/logo.jpg" alt=""></a>
         </section>
     </header>
     <main>

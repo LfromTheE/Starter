@@ -16,12 +16,12 @@
 
     <header>
         <div class="logo">
-            <a href="main"><img src="img/logo.jpg" /></a>
+            <a href="index"><img src="resources/static/img/logo.jpg" /></a>
         </div>
 
         <ul class="header_bar">
                 <li>
-                    <a href="/cart.html">장바구니</a>
+                    <a href="cart">장바구니</a>
                 </li>
 
                 <li>
@@ -30,7 +30,7 @@
 
 
                 <li>
-                    <a href="/login.html">로그인</a>
+                    <a href="login">로그인</a>
                 </li>
 
         </ul>
